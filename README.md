@@ -1,5 +1,5 @@
 
-![Test badge](https://github.com/Thomaas/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg) 
+![Test badge](https://github.com/Thomaaseth/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg) 
 
 # learn-cicd-typescript-starter (Notely)
 
